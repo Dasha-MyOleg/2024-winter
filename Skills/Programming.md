@@ -1,29 +1,29 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
+  - value 🖐️ used
+  - identifier 🖐️ used
+  - variable 🖐️ used
   - constant
-  - scalar
-  - literal
-  - expression
+  - scalar 🖐️ used
+  - literal 🖐️ used
+  - expression 🖐️ used
   - heap
   - function
   - procedure
-  - method
-  - class
+  - method 🖐️ used
+  - class 🖐️ used
   - prototype
-  - event
+  - event 
   - type
   - primitive types
   - reference types
-  - flag
+  - flag 🖐️ used
   - lexical scope
   - code block
   - conditions
   - loops
-  - assignment
+  - assignment 🖐️ used
   - regular expression
   - interface
   - contract
