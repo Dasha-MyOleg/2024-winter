@@ -41,49 +41,49 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
-- Functions
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - for..in 🖐️ used
+  - for..of 🖐️ used
+  - for await 🖐️ used
+  - throw🎓 known
+  - break 🖐️ used
+  - continue 🎓 known
+  - import 🖐️ used
+  - export 🖐️ used
+  - label 🖐️ used
+  - try..catch 👂 heard
+  - switch 🖐️ used
+  - class 🖐️ used
+  - new Error 🖐️ used
+  - with 🖐️ used
+- Functions 🎓 known
   - function declaration
   - function expression
-  - return
-  - default parameters
+  - return 🖐️ used
+  - default parameters 
   - functional object
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
+  - Array 🖐️ used
+  - mixin👂 heard
+  - extend 🖐️ used
+  - typed arrays 🖐️ used
+  - Map👂 heard
   - Set
   - undefined
-  - null
-  - Proxy
+  - null 🖐️ used
+  - Proxy 🖐️ used
   - weak collections
-  - timers
+  - timers👂 heard
   - EventEmitter
   - RegExp
-  - Date
+  - Date 🖐️ used
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js 🖐️ used
   - npm
   - prettier
   - MDN
